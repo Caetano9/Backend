@@ -1,0 +1,20 @@
+{
+  "title": "Mini Visual Novel",
+  "pages": [
+    {
+      "id": 0,
+      "text": "Ta indo pro lado errado, futuro é pra frente!",
+      "image": "inicio.png"
+    },
+    {
+      "id": 1,
+      "text": "O futuro...",
+      "image": "meio.png"
+    },
+    {
+      "id": 2,
+      "text": " ",
+      "image": "fim.png"
+    }
+  ]
+}
